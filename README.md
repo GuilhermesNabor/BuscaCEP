@@ -9,7 +9,7 @@ Plataforma online que permite aos usuários buscar informações de CEP (Código
 
 ## Utilização
 
-acesse o site: guilhermesnabor.github.io/BuscaCep
+acesse o site: https://guilhermesnabor.github.io/BuscaCEP/
 
 ### Pré-requisitos
 
